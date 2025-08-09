@@ -106,3 +106,4 @@ In a pull request, the *image link should be a direct link to the image file*, n
 
 Please note, the *verification process doesn’t require payment*. Your request will be reviewed by the team in the order. Any additional questions and the decision regarding your request will be provided directly in your PR.
 git clone https://github.com/gamzm1/ton-assets.git
+git clone https://github.com/gamzm1/ton-assets.git
