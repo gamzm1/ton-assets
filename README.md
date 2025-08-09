@@ -105,3 +105,4 @@ Before submitting, check that your PR has no duplicate or offensive content.
 In a pull request, the *image link should be a direct link to the image file*, not to a webpage. Ensure the link ends with an image extension (e.g., .jpg, .png). Please ***avoid using ton.api*** in the image link.
 
 Please note, the *verification process doesn’t require payment*. Your request will be reviewed by the team in the order. Any additional questions and the decision regarding your request will be provided directly in your PR.
+git clone https://github.com/gamzm1/ton-assets.git
